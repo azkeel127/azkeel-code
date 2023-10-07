@@ -1,2 +1,2 @@
 # azkeel-code
-[pagina principal](templates/index.hml)
+[pagina principal](templates/index.html)
