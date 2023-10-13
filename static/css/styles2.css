@@ -1,0 +1,47 @@
+body {
+    font-family: fantasy;
+    margin: 0;
+    padding: 0;
+    background-image: url("image/Mt.gif");
+}
+
+h1 {
+    text-align: center;
+    color: #ff0000;
+    margin-top: 30px;
+}
+p {
+    text-align: justify;
+    text-decoration: blueviolet;
+    font-size: 2em;
+
+    }
+
+    li button {
+        margin: 10px;
+    }
+    
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #06783b;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2105fa;
+}
+
+li button{
+    background-color:#4CAF50 ;
+    border:orangered;   
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}

@@ -1,0 +1,54 @@
+/* styles.css */
+
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3a09a2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el encabezado (h1) */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+}
+
+/* Estilo para el párrafo */
+p {
+    text-align: center;
+    color: #e9e108;
+}
+
+/* Estilo para los botones */
+button {
+    background-color: #007bff;
+    color: #121111;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilo para el botón dentro de la lista (li) */
+li button {
+    margin: 10px;
+}
+
+/* Estilo para la imagen */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilo para el iframe de Discord */
+iframe {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 500px;
+    border: none;
+}

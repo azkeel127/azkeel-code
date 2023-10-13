@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #f6efef;
+    margin-top: 30px;
+}
+
+p {
+    text-align: justify;
+    text-decoration: rgb(235, 4, 208);
+    font-size: 2em;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #c66006;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #b905fa;
+}
+p{
+    color: #f6efef;
+    margin-top: 30px;
+}
+img{
+    margin-top: 30px;
+}
